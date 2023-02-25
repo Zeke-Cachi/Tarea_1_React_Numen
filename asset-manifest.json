@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tarea_1_React_Numen/static/css/main.df17e222.css",
+    "main.js": "/Tarea_1_React_Numen/static/js/main.8efc7cfc.js",
+    "static/js/787.0c6cd8d3.chunk.js": "/Tarea_1_React_Numen/static/js/787.0c6cd8d3.chunk.js",
+    "index.html": "/Tarea_1_React_Numen/index.html",
+    "main.df17e222.css.map": "/Tarea_1_React_Numen/static/css/main.df17e222.css.map",
+    "main.8efc7cfc.js.map": "/Tarea_1_React_Numen/static/js/main.8efc7cfc.js.map",
+    "787.0c6cd8d3.chunk.js.map": "/Tarea_1_React_Numen/static/js/787.0c6cd8d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df17e222.css",
+    "static/js/main.8efc7cfc.js"
+  ]
+}
