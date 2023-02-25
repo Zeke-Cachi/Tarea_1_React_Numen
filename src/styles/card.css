@@ -1,0 +1,44 @@
+.card {
+    box-shadow: none;
+    transition: box-shadow 150ms;
+    position: relative;
+    background-color: white;
+    width: 13rem;
+    height: 20rem;
+    margin: 2rem .5rem;
+    border-radius: 3px;
+}
+
+.card:hover {
+    box-shadow: 0 10px 20px #a7a5a5;
+    height: 20.5rem;
+    cursor: pointer;
+}
+
+.card:hover #noDisplay, .card:hover .heartImg {
+    opacity: 1;
+}
+
+#noDisplay {
+    margin: 1rem 1rem;
+    font-family: 'Roboto';
+    color: rgb(117, 115, 115);
+    font-weight: light;
+    font-size: .8rem;
+}
+
+#noDisplay, .heartImg {
+    opacity: 0;
+    transition: opacity 150ms;
+}
+
+.heartImg {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 1rem;
+    right: 1rem;
+}
+
+
+
